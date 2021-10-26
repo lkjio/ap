@@ -10,9 +10,15 @@ addToDoButton.addEventListener('click', function(){
     inputField.value = "";
     paragraph.addEventListener('click', function(){
         paragraph.style.textDecoration = "line-through";
-    })
-    paragraph.addEventListener('dblclick', function(){
-        toDoContainer.removeChild(paragraph);
+   
     })
 })
+font-size: 25px;
+vertical-align: middle;
+}
 
+#addToDo {
+color: beige;
+background-repeat: repeat-y; 
+vertical-align: text-bottom;
+verti

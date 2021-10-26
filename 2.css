@@ -34,4 +34,6 @@ calc()
 
 .to-dos {
     margin-top: 25px;
-}
+} })
+paragraph.addEventListener('dblclick', function(){
+    toDoContainer.removeChild(paragraph);
