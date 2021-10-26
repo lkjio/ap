@@ -10,8 +10,8 @@ html, body {
 }
 
 #inputField {
-    width: 300px;
-    height: 46px;
+   grid-row: span
+calc()
     border-width: 0;
    image-rendering: auto;
     font-size: 25px;
@@ -20,7 +20,8 @@ html, body {
 
 #addToDo {
    color: beige;
-    border: 1px solid black;
+ background-repeat: repeat-y; 
+ vertical-align: text-bottom;
     vertical-align: middle;
     font-size: 30px;
 }
