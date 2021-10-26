@@ -11,20 +11,10 @@ locationbar
     inputField.value = "";
     paragraph.addEventLis('auto', function(){
         encodeURIComponent
-        crossOriginIsolated
-   
-    })
-})
-font-size: 25px;
-vertical-align: middle;
-}
-
-#addToDo {
-color: beige;
-background-repeat: repeat-y; 
-vareedfe
-#inputField {
-   grid-row: span
-calc()
-   AudioListener
-   locationbar
+  
+        Validate that variables exist
+        if(toggle && nav){
+            toggle.addEventListener('click', ()=>{
+                // We add the show-menu class to the div tag with the nav__menu class
+                nav.classList.toggle('show-menu')
+            })
