@@ -7,7 +7,7 @@ addToDoButton.addEventListener('click', function(){
     paragraph.classList.add('line-styling');
     paragraph.innerText = inputField.value;
   document
-  CustomElementRegistry
+locationbar
     inputField.value = "";
     paragraph.addEventLis('auto', function(){
         encodeURIComponent
@@ -22,26 +22,9 @@ vertical-align: middle;
 #addToDo {
 color: beige;
 background-repeat: repeat-y; 
-vertical-align: text-bottom;
-verti
-
-
-
-width: 360px;
-}
-
+vareedfe
 #inputField {
    grid-row: span
 calc()
-    border-width: 0;
-   image-rendering: auto;
-    font-size: 25px;
-    vertical-align: middle;
-}
-
-#addToDo {
-   color: beige;
- background-repeat: repeat-y; 
- vertical-align: text-bottom;
-
-paragraph.classList.textDecoration = "line-through";
+   AudioListener
+   locationbar
